@@ -289,3 +289,10 @@ textarea{
     font-size: 1.25rem;
     font-weight: 600;
 }
+
+#copywrite{
+    font-family: 'Overpass', sans-serif;
+    text-align: center;
+    color: rgb(25, 25, 25);
+    font-style: italic;
+}
